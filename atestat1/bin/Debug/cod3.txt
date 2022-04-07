@@ -1,0 +1,22 @@
+#include <iostream>
+#include <fstream>
+#include<stdlib.h>
+using namespace std;
+ifstream f("date3.in");
+int dif_poz(int A[100], int n)
+{
+    if(n==0) return 0;
+    else if(n%2==0) return dif_poz(A,n-1)+A[n];
+         else return dif_poz(A,n-1)-A[n];
+}
+int n,A[100],i;
+int main()
+{
+    f>>n;
+    for(i=1;i<=n;i++)
+        f>>A[i];
+    cout<<dif_poz(A,n);
+    cout<<endl;
+    system("pause");
+    return 0;
+}

@@ -1,0 +1,3 @@
+Sa se scrie o functie recursiva care numara cate vocale mici are un cuvant transmis ca parametru.
+date.in:
+Anamaria

@@ -1,0 +1,8 @@
+C:\Documents and Settings\cls_11a\Local Settings\Application Data\Temporary Projects\atestat\bin\Debug\atestat.exe
+C:\Documents and Settings\cls_11a\Local Settings\Application Data\Temporary Projects\atestat\bin\Debug\atestat.pdb
+C:\Documents and Settings\cls_11a\Local Settings\Application Data\Temporary Projects\atestat\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\cls_11a\Local Settings\Application Data\Temporary Projects\atestat\obj\Debug\atestat.Form1.resources
+C:\Documents and Settings\cls_11a\Local Settings\Application Data\Temporary Projects\atestat\obj\Debug\atestat.Properties.Resources.resources
+C:\Documents and Settings\cls_11a\Local Settings\Application Data\Temporary Projects\atestat\obj\Debug\atestat.csproj.GenerateResource.Cache
+C:\Documents and Settings\cls_11a\Local Settings\Application Data\Temporary Projects\atestat\obj\Debug\atestat.exe
+C:\Documents and Settings\cls_11a\Local Settings\Application Data\Temporary Projects\atestat\obj\Debug\atestat.pdb

@@ -1,0 +1,8 @@
+Sa se scrie o functie recursiva care calculeaza si returneaza
+diferenta dintre suma elementelor de pe pozitii pare si cea a
+celor aflate pe pozitii impare dintr-un vector A primit ca
+parametru impreuna cu n reprezentand numarul lui de elemente.
+Elementele tabloului sunt indexate de la 1.
+Exemplu:
+Daca functia primeste tabloul A={4,5,6,3,2,9} cu n=6, atunci va
+returna 5 adica (5+3+9)-(4+6+2).

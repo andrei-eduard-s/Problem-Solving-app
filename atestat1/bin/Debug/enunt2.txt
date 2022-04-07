@@ -1,0 +1,8 @@
+Se citeste un numar natural n (n<=20). Afisati un desen format din caracterul * ca in exemplul de mai jos. Se vor folosi exclusiv subprograme recursive.
+Exemplu:
+Pentru n=3 se afiseaza
+  *
+ ***
+*****
+ ***
+  *

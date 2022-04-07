@@ -1,0 +1,81 @@
+D:\11_a\atestat1\atestat1\bin\Debug\atestat1.exe
+D:\11_a\atestat1\atestat1\bin\Debug\atestat1.pdb
+D:\11_a\atestat1\atestat1\obj\Debug\ResolveAssemblyReference.cache
+D:\11_a\atestat1\atestat1\obj\Debug\atestat.Form1.resources
+D:\11_a\atestat1\atestat1\obj\Debug\atestat.Properties.Resources.resources
+D:\11_a\atestat1\atestat1\obj\Debug\atestat1.csproj.GenerateResource.Cache
+D:\11_a\atestat1\atestat1\obj\Debug\atestat1.exe
+D:\11_a\atestat1\atestat1\obj\Debug\atestat1.pdb
+C:\Documents and Settings\cls_11a\Desktop\Model atestat\atestat1\atestat1\obj\Debug\atestat1.exe
+C:\Documents and Settings\cls_11a\Desktop\Model atestat\atestat1\atestat1\obj\Debug\atestat1.pdb
+C:\Documents and Settings\cls_11a\Desktop\Model atestat\atestat1\atestat1\bin\Debug\atestat1.exe
+C:\Documents and Settings\cls_11a\Desktop\Model atestat\atestat1\atestat1\bin\Debug\atestat1.pdb
+C:\Documents and Settings\cls_11a\Desktop\Model atestat\atestat1\atestat1\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\cls_11a\Desktop\Model atestat\atestat1\atestat1\obj\Debug\atestat.Form1.resources
+C:\Documents and Settings\cls_11a\Desktop\Model atestat\atestat1\atestat1\obj\Debug\atestat.Properties.Resources.resources
+C:\Documents and Settings\cls_11a\Desktop\Model atestat\atestat1\atestat1\obj\Debug\atestat1.csproj.GenerateResource.Cache
+F:\Model atestat\atestat1\atestat1\obj\Debug\atestat1.exe
+F:\Model atestat\atestat1\atestat1\obj\Debug\atestat1.pdb
+C:\Users\user\Desktop\Model atestat\atestat1\atestat1\obj\Debug\atestat1.exe
+C:\Users\user\Desktop\Model atestat\atestat1\atestat1\obj\Debug\atestat1.pdb
+C:\Users\user\Desktop\Model atestat\atestat1\atestat1\obj\Debug\atestat.Form1.resources
+C:\Users\user\Desktop\Model atestat\atestat1\atestat1\obj\Debug\atestat.Properties.Resources.resources
+C:\Users\user\Desktop\Model atestat\atestat1\atestat1\obj\Debug\atestat1.csproj.GenerateResource.Cache
+C:\Users\user\Desktop\Model atestat\atestat1\atestat1\bin\Debug\atestat1.exe
+C:\Users\user\Desktop\Model atestat\atestat1\atestat1\bin\Debug\atestat1.pdb
+C:\Users\user\Desktop\Model atestat\atestat1\atestat1\obj\Debug\atestat1.csprojResolveAssemblyReference.cache
+C:\Users\cls_12a\Desktop\Model atestat\atestat1\atestat1\obj\Debug\atestat1.exe
+C:\Users\cls_12a\Desktop\Model atestat\atestat1\atestat1\obj\Debug\atestat1.pdb
+C:\Users\cls_12a\Desktop\Cazacu Bogdan Ionut\atestat1\atestat1\obj\Debug\atestat1.exe
+C:\Users\cls_12a\Desktop\Cazacu Bogdan Ionut\atestat1\atestat1\obj\Debug\atestat1.pdb
+C:\Users\cls_12a\Desktop\Cazacu Bogdan Ionut\atestat1\atestat1\bin\Debug\atestat1.exe
+C:\Users\cls_12a\Desktop\Cazacu Bogdan Ionut\atestat1\atestat1\bin\Debug\atestat1.pdb
+C:\Users\cls_12a\Desktop\Cazacu Bogdan Ionut\atestat1\atestat1\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\cls_12a\Desktop\Cazacu Bogdan Ionut\atestat1\atestat1\obj\Debug\atestat.Form1.resources
+C:\Users\cls_12a\Desktop\Cazacu Bogdan Ionut\atestat1\atestat1\obj\Debug\atestat.Properties.Resources.resources
+C:\Users\cls_12a\Desktop\Cazacu Bogdan Ionut\atestat1\atestat1\obj\Debug\atestat1.csproj.GenerateResource.Cache
+\\Server_ael\public\Magdalena-Grigore\Cazacu Bogdan Ionut BUN\atestat1\atestat1\obj\Debug\atestat1.exe
+\\Server_ael\public\Magdalena-Grigore\Cazacu Bogdan Ionut BUN\atestat1\atestat1\obj\Debug\atestat1.pdb
+C:\Users\cls_11a\Desktop\Cazacu Bogdan Ionut BUN\atestat1\atestat1\obj\Debug\atestat1.exe
+C:\Users\cls_11a\Desktop\Cazacu Bogdan Ionut BUN\atestat1\atestat1\obj\Debug\atestat1.pdb
+C:\Users\cls_11a\Desktop\Cazacu Bogdan Ionut BUN\atestat1\atestat1\bin\Debug\atestat1.exe
+C:\Users\cls_11a\Desktop\Cazacu Bogdan Ionut BUN\atestat1\atestat1\bin\Debug\atestat1.pdb
+C:\Users\cls_11a\Desktop\Cazacu Bogdan Ionut BUN\atestat1\atestat1\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\cls_11a\Desktop\Cazacu Bogdan Ionut BUN\atestat1\atestat1\obj\Debug\atestat.Form1.resources
+C:\Users\cls_11a\Desktop\Cazacu Bogdan Ionut BUN\atestat1\atestat1\obj\Debug\atestat.Properties.Resources.resources
+C:\Users\cls_11a\Desktop\Cazacu Bogdan Ionut BUN\atestat1\atestat1\obj\Debug\atestat1.csproj.GenerateResource.Cache
+C:\Users\cls_11a\Desktop\Pricop Liviu\atestat1\atestat1\obj\Debug\atestat1.exe
+C:\Users\cls_11a\Desktop\Pricop Liviu\atestat1\atestat1\obj\Debug\atestat1.pdb
+C:\Users\cls_11a\Desktop\Pricop Liviu\atestat1\atestat1\bin\Debug\atestat1.exe
+C:\Users\cls_11a\Desktop\Pricop Liviu\atestat1\atestat1\bin\Debug\atestat1.pdb
+C:\Users\cls_11a\Desktop\Pricop Liviu\atestat1\atestat1\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\cls_11a\Desktop\Pricop Liviu\atestat1\atestat1\obj\Debug\atestat.Form1.resources
+C:\Users\cls_11a\Desktop\Pricop Liviu\atestat1\atestat1\obj\Debug\atestat.Properties.Resources.resources
+C:\Users\cls_11a\Desktop\Pricop Liviu\atestat1\atestat1\obj\Debug\atestat1.csproj.GenerateResource.Cache
+C:\Users\cls_11a\Desktop\Catalina Dragu\atestat1\atestat1\obj\Debug\atestat1.exe
+C:\Users\cls_11a\Desktop\Catalina Dragu\atestat1\atestat1\obj\Debug\atestat1.pdb
+C:\Users\cls_11a\Desktop\Catalina Dragu\atestat1\atestat1\bin\Debug\atestat1.exe
+C:\Users\cls_11a\Desktop\Catalina Dragu\atestat1\atestat1\bin\Debug\atestat1.pdb
+C:\Users\cls_11a\Desktop\Catalina Dragu\atestat1\atestat1\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\cls_11a\Desktop\Catalina Dragu\atestat1\atestat1\obj\Debug\atestat.Form1.resources
+C:\Users\cls_11a\Desktop\Catalina Dragu\atestat1\atestat1\obj\Debug\atestat.Properties.Resources.resources
+C:\Users\cls_11a\Desktop\Catalina Dragu\atestat1\atestat1\obj\Debug\atestat1.csproj.GenerateResource.Cache
+Z:\Magdalena-Grigore\atestat11A\Catalina Dragu\atestat1\atestat1\obj\Debug\atestat1.exe
+Z:\Magdalena-Grigore\atestat11A\Catalina Dragu\atestat1\atestat1\obj\Debug\atestat1.pdb
+Z:\Magdalena-Grigore\atestat11A\Catalina Dragu\atestat1\atestat1\bin\Debug\atestat1.exe
+Z:\Magdalena-Grigore\atestat11A\Catalina Dragu\atestat1\atestat1\bin\Debug\atestat1.pdb
+Z:\Magdalena-Grigore\atestat11A\Catalina Dragu\atestat1\atestat1\obj\Debug\atestat1.csprojResolveAssemblyReference.cache
+Z:\Magdalena-Grigore\atestat11A\Catalina Dragu\atestat1\atestat1\obj\Debug\atestat.Form1.resources
+Z:\Magdalena-Grigore\atestat11A\Catalina Dragu\atestat1\atestat1\obj\Debug\atestat.Properties.Resources.resources
+Z:\Magdalena-Grigore\atestat11A\Catalina Dragu\atestat1\atestat1\obj\Debug\atestat1.csproj.GenerateResource.Cache
+Z:\11A\model atestat 2019-2020\atestat1\atestat1\obj\Debug\atestat1.exe
+Z:\11A\model atestat 2019-2020\atestat1\atestat1\obj\Debug\atestat1.pdb
+D:\model atestat 2019-2020\atestat1\atestat1\bin\Debug\atestat1.exe
+D:\model atestat 2019-2020\atestat1\atestat1\obj\Debug\atestat.Form1.resources
+D:\model atestat 2019-2020\atestat1\atestat1\obj\Debug\atestat.Properties.Resources.resources
+D:\model atestat 2019-2020\atestat1\atestat1\obj\Debug\atestat1.csproj.GenerateResource.Cache
+D:\model atestat 2019-2020\atestat1\atestat1\obj\Debug\atestat1.csproj.CoreCompileInputs.cache
+D:\model atestat 2019-2020\atestat1\atestat1\obj\Debug\atestat1.exe
+D:\model atestat 2019-2020\atestat1\atestat1\obj\Debug\atestat1.pdb
+D:\model atestat 2019-2020\atestat1\atestat1\bin\Debug\atestat1.pdb
+D:\model atestat 2019-2020\atestat1\atestat1\obj\Debug\atestat1.csprojAssemblyReference.cache
