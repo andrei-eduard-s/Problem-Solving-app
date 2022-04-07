@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1463733553 source:c:\users\cls_11a\desktop\atestat katty\problema5\main.cpp
+	<fstream>
+	<iostream>
+

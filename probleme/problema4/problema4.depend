@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1463732678 source:c:\users\cls_11a\desktop\catalina atestat\problema4\main.cpp
+	<fstream>
+
+1463733292 source:c:\users\cls_11a\desktop\atestat katty\problema4\main.cpp
+	<fstream>
+	<iostream>
+
