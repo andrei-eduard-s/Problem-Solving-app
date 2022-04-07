@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1559629760 source:j:\model atestat 2019-2020\probleme recursivitate\problema10\main.cpp
+	<iostream>
+	<fstream>
+	<stdlib.h>
+
